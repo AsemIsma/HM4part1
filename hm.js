@@ -1,4 +1,4 @@
-function nameUser (name) {
+function useName (name) {
   if (name === 'Жасмин') {
     console.log('Сегодня твой счастливый день! получи свой приз');
   } else if (name === 'Aidana') {
@@ -8,6 +8,6 @@ function nameUser (name) {
   }
 }
 
-nameUser('Aidana')
-nameUser('Asem')
-nameUser('Жасмин')
+useName('Aidana')
+useName('Asem')
+useName('Жасмин')
